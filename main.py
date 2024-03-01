@@ -3,7 +3,7 @@ import pyodbc
 import json
 
 # Conexión a la base de datos
-connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER=sql-aludra-prod-01.database.windows.net;DATABASE=DB_dataserve;UID=hnladmin;PWD=Linaka10')
+connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER;DATABASE=;UID=hnladmin;PWD=')
 
 # Consulta SQL para recuperar el valor del Payload
 query = """
