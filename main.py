@@ -20,7 +20,7 @@ connection.close()
 # Realizar la solicitud HTTP POST con la cadena JSON como carga útil
 url = "https://apim.aludra.cloud/mdl18/feRecepFEDGI"
 headers = {
-    'api-key': 'FcKTfV8rBFmGI4/Gibk/dibdl0NPmfyjHFIFR7GaQxT7ScoC2OpHWsH626V2WFjfvY+UiR7caBDHdwJi6QaPEL+nRZIOG5A9FtXO5sP8n65KsypwM6nrg8twLqHGRwaF3BNIgXsV19tq0yE3zlhB2YVmRWkukLPpZS5Rh/wduHw2OMif8odtnDH5I2Bjhe0ev9WwRrSl6GdmMVd3Z8p2fWIrYAsLbLucbwmsAaldzd6tgQgpNmG85oLA2g07cASuUzCKW83Lb04OBwj1QukAPGbO+umCBraU7sD9dFO0vv/BijV7pDN6So7dYy4VE7z02jvcF4GCc49WQGPtLCVl/7yuhcNEWxnsHQAszIN5fYI=',
+    'api-key': '',
     'Content-Type': 'application/json',
     'Accept': 'application/json',
 }
